@@ -3,8 +3,6 @@ import React, { Component } from 'react';
 
 class Features extends Component{
 
-
-
   newFeatures(feature, selected) { 
   
     return Object.keys(feature)
